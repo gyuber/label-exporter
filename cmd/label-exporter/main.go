@@ -7,7 +7,7 @@ import (
 
 	"gopkg.in/alecthomas/kingpin.v2"
 
-	exporter "github.com/micnncim/label-exporter"
+	exporter "github.com/gyuber/label-exporter"
 )
 
 var (
