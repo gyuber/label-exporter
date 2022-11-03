@@ -1,4 +1,4 @@
-module github.com/micnncim/label-exporter
+module github.com/gyuber/label-exporter
 
 go 1.12
 
