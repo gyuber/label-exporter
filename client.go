@@ -32,7 +32,6 @@ func NewClient() (*githubClient, error) {
 			client: cli,
 		}, nil 
 	}
-    }
 }
 
 func newClient(token string) *github.Client {
