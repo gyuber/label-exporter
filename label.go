@@ -3,7 +3,7 @@ package exporter
 import (
 	"context"
 
-	"github.com/google/go-github/v28/github"
+	"github.com/google/go-github/v48/github"
 )
 
 type Label struct {
